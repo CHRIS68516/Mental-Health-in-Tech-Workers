@@ -1,4 +1,4 @@
-<h1> Mental Health in Tech Workers</h1>
+ <h1> Mental Health in Tech Workers</h1>
 
  This capstone project investigates mental health challenges among tech workers by analyzing data from the 2019 OSMI (Open Sourcing Mental Illness) survey. The goal is to understand how demographic factors such as age, gender, and location, as well as workplace conditions like company size and mental health policies, affect the likelihood of individuals seeking mental health treatment. Through this analysis, we aim to uncover patterns and disparities that can inform better support systems within the tech industry.
 
