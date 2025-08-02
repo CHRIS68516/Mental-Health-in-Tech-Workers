@@ -1,0 +1,501 @@
+age,gender,country,company_size,tech_company,treatment,mental_health_coverage,employer_discussion,leave_difficulty
+56,Male,USA,500-1000,False,1,Yes,I don't know,Somewhat easy
+46,Male,UK,1000+,False,0,Yes,I don't know,Somewhat easy
+32,Non-binary,India,6-25,False,1,No,No,Somewhat difficult
+60,Non-binary,USA,1000+,False,0,Yes,No,Somewhat easy
+25,Male,Canada,500-1000,False,0,I don't know,No,Very easy
+38,Prefer not to say,Germany,1-5,False,0,No,No,Very easy
+56,Non-binary,USA,26-100,False,0,No,I don't know,Somewhat difficult
+36,Male,USA,6-25,True,1,No,I don't know,Somewhat easy
+40,Male,UK,26-100,True,0,Yes,Yes,Very easy
+28,Prefer not to say,India,500-1000,False,1,No,Yes,Very easy
+28,Female,Germany,6-25,True,1,Yes,I don't know,Very difficult
+41,Non-binary,Canada,1000+,False,0,I don't know,Yes,Very difficult
+53,Prefer not to say,Germany,100-500,False,1,Yes,I don't know,Very easy
+57,Male,Canada,26-100,True,0,No,Yes,Somewhat difficult
+41,Male,India,6-25,False,0,No,No,I don't know
+20,Prefer not to say,Canada,26-100,False,1,Yes,Yes,I don't know
+39,Non-binary,UK,6-25,False,0,Yes,No,Very easy
+19,Female,UK,1-5,False,0,I don't know,No,Very easy
+41,Female,UK,1000+,True,0,I don't know,No,Very easy
+61,Male,UK,26-100,False,0,Yes,No,Somewhat difficult
+47,Non-binary,Germany,100-500,False,0,I don't know,Yes,Very difficult
+55,Female,India,100-500,False,0,I don't know,I don't know,Very easy
+19,Non-binary,Canada,500-1000,True,1,I don't know,No,Very easy
+38,Non-binary,Canada,6-25,False,0,Yes,Yes,Somewhat easy
+50,Male,UK,26-100,True,0,I don't know,No,Somewhat difficult
+29,Female,UK,500-1000,True,0,Yes,Yes,Very easy
+39,Prefer not to say,USA,26-100,False,0,I don't know,Yes,Somewhat easy
+61,Male,India,6-25,False,1,No,Yes,I don't know
+42,Female,Germany,100-500,True,1,Yes,I don't know,Very easy
+44,Female,Canada,1-5,False,1,I don't know,Yes,Very easy
+59,Female,USA,100-500,True,0,Yes,Yes,Somewhat easy
+45,Female,USA,500-1000,True,0,I don't know,I don't know,Somewhat difficult
+33,Female,Canada,1000+,False,0,I don't know,I don't know,Very easy
+32,Non-binary,Germany,1-5,False,1,No,Yes,I don't know
+64,Male,USA,500-1000,True,0,Yes,I don't know,Very easy
+61,Non-binary,USA,6-25,True,0,No,No,I don't know
+20,Prefer not to say,India,1-5,True,1,Yes,No,Very difficult
+54,Female,Germany,500-1000,True,0,Yes,I don't know,Very difficult
+24,Male,USA,6-25,False,0,I don't know,I don't know,I don't know
+38,Female,Germany,100-500,False,0,Yes,Yes,Somewhat difficult
+26,Male,Canada,1000+,False,1,Yes,I don't know,Very easy
+56,Non-binary,UK,6-25,False,0,I don't know,Yes,Very easy
+35,Male,USA,26-100,False,1,Yes,No,Very difficult
+21,Prefer not to say,India,6-25,True,1,Yes,I don't know,I don't know
+42,Prefer not to say,Canada,6-25,False,0,I don't know,Yes,Very easy
+31,Male,Germany,1000+,False,1,Yes,Yes,Very easy
+26,Male,Canada,26-100,False,0,I don't know,No,Somewhat difficult
+43,Male,USA,500-1000,False,0,I don't know,I don't know,Somewhat easy
+19,Male,Germany,500-1000,False,1,I don't know,No,Very difficult
+37,Prefer not to say,UK,6-25,True,1,No,Yes,Very difficult
+45,Female,Canada,26-100,True,1,Yes,Yes,Somewhat easy
+64,Male,USA,26-100,True,0,Yes,I don't know,Very easy
+24,Male,India,1000+,False,0,I don't know,Yes,Somewhat difficult
+61,Prefer not to say,Germany,100-500,True,0,I don't know,I don't know,Somewhat difficult
+25,Prefer not to say,Canada,500-1000,True,0,No,No,Very difficult
+64,Non-binary,Canada,1000+,False,0,Yes,I don't know,Somewhat difficult
+52,Male,UK,1-5,False,0,Yes,I don't know,Somewhat easy
+31,Non-binary,UK,500-1000,False,0,Yes,Yes,Very easy
+34,Prefer not to say,India,1000+,True,0,I don't know,Yes,Somewhat easy
+53,Prefer not to say,India,500-1000,True,0,No,I don't know,I don't know
+57,Female,USA,100-500,False,0,I don't know,Yes,Very difficult
+21,Male,USA,1-5,False,1,I don't know,Yes,Somewhat difficult
+19,Non-binary,India,100-500,True,0,Yes,Yes,I don't know
+23,Prefer not to say,India,1-5,True,1,No,I don't know,Somewhat difficult
+59,Prefer not to say,Germany,6-25,False,1,No,Yes,Very easy
+21,Non-binary,UK,1000+,False,0,No,I don't know,Very easy
+46,Female,USA,1-5,True,1,I don't know,Yes,Very easy
+35,Prefer not to say,UK,100-500,False,0,I don't know,No,Somewhat difficult
+43,Male,UK,500-1000,True,0,I don't know,Yes,I don't know
+61,Prefer not to say,India,1-5,True,0,Yes,Yes,Very easy
+51,Male,Germany,1000+,True,0,Yes,I don't know,I don't know
+27,Non-binary,Canada,1-5,True,0,I don't know,I don't know,Somewhat difficult
+53,Male,Germany,26-100,False,0,Yes,Yes,I don't know
+31,Non-binary,Germany,500-1000,False,1,Yes,No,Somewhat difficult
+48,Male,UK,1000+,True,1,Yes,Yes,Somewhat difficult
+32,Non-binary,Germany,1000+,True,0,No,Yes,Very difficult
+25,Male,USA,6-25,True,1,Yes,No,Somewhat difficult
+31,Female,UK,100-500,True,0,No,I don't know,Somewhat difficult
+40,Male,USA,6-25,True,0,I don't know,Yes,Somewhat easy
+57,Male,Canada,1000+,False,1,Yes,I don't know,Very easy
+38,Female,UK,500-1000,False,0,Yes,I don't know,Very difficult
+33,Prefer not to say,Canada,1-5,False,0,Yes,No,Very difficult
+62,Prefer not to say,UK,1-5,False,0,I don't know,No,Very difficult
+35,Male,India,500-1000,True,0,Yes,I don't know,Somewhat easy
+64,Female,Germany,1000+,True,1,Yes,Yes,Somewhat difficult
+41,Male,India,1-5,True,0,Yes,I don't know,Very easy
+43,Non-binary,Canada,1-5,True,1,I don't know,Yes,I don't know
+42,Non-binary,Germany,1-5,True,0,No,Yes,Somewhat difficult
+62,Male,UK,100-500,False,0,I don't know,No,Somewhat easy
+58,Prefer not to say,Germany,100-500,True,0,I don't know,Yes,Somewhat difficult
+46,Prefer not to say,USA,26-100,False,1,Yes,Yes,Somewhat difficult
+32,Male,Germany,6-25,False,0,I don't know,I don't know,Somewhat easy
+62,Male,USA,500-1000,False,1,Yes,No,Very difficult
+18,Non-binary,Germany,500-1000,False,1,I don't know,Yes,Very difficult
+42,Prefer not to say,USA,500-1000,True,0,No,Yes,Very easy
+24,Male,Canada,26-100,False,1,I don't know,No,Very easy
+26,Non-binary,India,100-500,False,1,Yes,I don't know,Very difficult
+41,Prefer not to say,UK,1000+,False,1,Yes,No,I don't know
+18,Female,Germany,1000+,True,0,Yes,No,Somewhat difficult
+61,Non-binary,India,26-100,True,0,Yes,Yes,I don't know
+25,Prefer not to say,UK,1000+,True,0,Yes,Yes,Somewhat difficult
+41,Prefer not to say,UK,500-1000,False,0,Yes,I don't know,Very difficult
+28,Non-binary,USA,6-25,False,0,Yes,Yes,Very easy
+34,Female,Canada,1-5,True,1,No,Yes,Very easy
+25,Non-binary,Canada,100-500,False,0,I don't know,No,I don't know
+52,Prefer not to say,India,100-500,True,0,No,Yes,Very easy
+52,Male,Canada,26-100,True,1,Yes,I don't know,Very difficult
+50,Male,Germany,100-500,False,1,No,No,I don't know
+22,Non-binary,Canada,500-1000,False,0,Yes,I don't know,Somewhat difficult
+59,Prefer not to say,India,1000+,False,1,I don't know,No,Very easy
+56,Male,Canada,500-1000,False,0,Yes,Yes,Somewhat easy
+58,Prefer not to say,Germany,26-100,True,0,I don't know,No,Very easy
+45,Non-binary,USA,500-1000,True,1,I don't know,No,Somewhat difficult
+24,Male,India,1000+,True,0,I don't know,Yes,I don't know
+26,Prefer not to say,USA,6-25,True,0,No,Yes,Somewhat difficult
+25,Male,USA,26-100,True,0,I don't know,I don't know,Somewhat easy
+29,Non-binary,USA,6-25,False,0,I don't know,I don't know,Very difficult
+51,Prefer not to say,UK,1-5,True,0,No,Yes,Very easy
+50,Male,UK,6-25,True,0,No,Yes,I don't know
+40,Non-binary,USA,1-5,True,1,No,Yes,Very difficult
+41,Male,India,1-5,False,1,No,No,Somewhat difficult
+54,Male,Germany,6-25,False,0,No,No,I don't know
+52,Female,Germany,26-100,False,0,No,No,Very difficult
+61,Female,Canada,1000+,False,0,Yes,Yes,I don't know
+57,Non-binary,India,500-1000,True,0,Yes,I don't know,Somewhat easy
+39,Female,UK,500-1000,True,1,Yes,Yes,Somewhat easy
+44,Non-binary,USA,1000+,False,0,Yes,No,Very easy
+52,Female,Canada,1-5,False,0,Yes,No,Very easy
+18,Male,Germany,1-5,True,1,No,Yes,Somewhat easy
+52,Non-binary,UK,26-100,True,1,Yes,Yes,I don't know
+54,Non-binary,UK,100-500,False,1,I don't know,No,Somewhat easy
+64,Male,USA,6-25,False,0,Yes,No,Very easy
+31,Non-binary,Germany,1-5,False,0,Yes,No,Somewhat easy
+20,Non-binary,India,500-1000,False,0,I don't know,Yes,Somewhat easy
+18,Female,UK,26-100,True,0,No,No,I don't know
+22,Non-binary,USA,6-25,True,1,Yes,No,Very difficult
+43,Prefer not to say,India,26-100,True,1,I don't know,I don't know,Very easy
+31,Male,Germany,6-25,False,1,I don't know,Yes,I don't know
+56,Female,UK,6-25,False,1,Yes,I don't know,Somewhat easy
+44,Female,India,1000+,True,0,Yes,I don't know,Somewhat easy
+26,Prefer not to say,India,1-5,True,1,I don't know,No,Very difficult
+32,Male,India,26-100,True,0,No,Yes,Very easy
+32,Male,UK,26-100,True,0,No,No,Very easy
+43,Female,UK,1000+,False,0,I don't know,Yes,Somewhat difficult
+59,Non-binary,Canada,500-1000,True,0,Yes,I don't know,Very easy
+30,Female,Germany,500-1000,True,0,No,Yes,Very difficult
+49,Male,USA,1-5,True,1,Yes,No,Somewhat difficult
+56,Prefer not to say,India,1-5,True,0,I don't know,No,Somewhat difficult
+49,Female,Canada,100-500,True,0,No,No,Somewhat easy
+21,Male,USA,1000+,True,0,No,Yes,Somewhat easy
+47,Female,Canada,500-1000,True,1,Yes,I don't know,Very easy
+54,Non-binary,UK,6-25,False,0,Yes,I don't know,Somewhat difficult
+40,Female,India,26-100,False,1,No,Yes,Somewhat easy
+56,Female,USA,1-5,False,0,I don't know,No,Very difficult
+62,Male,USA,26-100,False,1,No,I don't know,Somewhat easy
+32,Male,USA,26-100,True,0,Yes,No,Somewhat easy
+60,Male,USA,100-500,False,1,I don't know,Yes,Somewhat difficult
+46,Female,USA,500-1000,False,1,Yes,No,Somewhat difficult
+53,Non-binary,Canada,1-5,True,0,I don't know,I don't know,I don't know
+30,Prefer not to say,India,26-100,True,0,Yes,I don't know,Very difficult
+49,Prefer not to say,UK,1-5,False,0,No,No,Somewhat difficult
+24,Male,UK,6-25,False,0,Yes,Yes,Very easy
+39,Male,UK,100-500,True,0,I don't know,No,Very difficult
+45,Female,UK,6-25,False,1,No,Yes,Very difficult
+19,Prefer not to say,Canada,1-5,True,0,Yes,No,Somewhat difficult
+59,Male,Germany,1-5,True,0,Yes,I don't know,Very difficult
+62,Non-binary,India,500-1000,True,0,Yes,Yes,Somewhat difficult
+23,Non-binary,USA,26-100,True,0,Yes,Yes,Somewhat easy
+45,Male,Germany,26-100,False,1,I don't know,Yes,I don't know
+45,Male,UK,6-25,True,0,No,I don't know,Somewhat easy
+61,Prefer not to say,Germany,100-500,True,1,I don't know,No,Somewhat difficult
+61,Prefer not to say,India,1000+,False,1,No,I don't know,Somewhat difficult
+37,Female,USA,26-100,True,1,No,Yes,Somewhat easy
+47,Prefer not to say,USA,500-1000,False,1,Yes,No,Very easy
+28,Non-binary,India,6-25,False,0,Yes,I don't know,Very easy
+45,Non-binary,India,6-25,False,1,I don't know,Yes,Very easy
+42,Male,UK,1000+,True,0,I don't know,Yes,Somewhat difficult
+56,Prefer not to say,USA,500-1000,False,0,Yes,I don't know,Very difficult
+50,Female,Germany,100-500,False,1,Yes,I don't know,Somewhat difficult
+18,Non-binary,Canada,500-1000,True,1,No,I don't know,Very difficult
+44,Non-binary,Canada,100-500,False,1,I don't know,Yes,Somewhat easy
+30,Female,India,500-1000,False,0,Yes,I don't know,I don't know
+58,Female,UK,500-1000,False,0,No,Yes,Very difficult
+20,Non-binary,Canada,1-5,False,1,I don't know,I don't know,Very easy
+56,Non-binary,USA,6-25,False,0,Yes,Yes,Somewhat difficult
+23,Female,India,500-1000,True,1,Yes,Yes,Somewhat easy
+25,Non-binary,Germany,1000+,False,1,No,No,Very easy
+44,Male,India,500-1000,False,0,I don't know,I don't know,Somewhat easy
+26,Male,Germany,26-100,True,0,Yes,I don't know,I don't know
+54,Female,India,6-25,True,0,No,Yes,Somewhat difficult
+50,Prefer not to say,India,26-100,True,0,No,Yes,Somewhat difficult
+59,Female,India,6-25,False,1,No,Yes,I don't know
+61,Female,Germany,26-100,True,0,No,No,Somewhat difficult
+41,Prefer not to say,Germany,500-1000,False,1,No,No,Very difficult
+32,Prefer not to say,India,500-1000,False,0,No,Yes,Somewhat easy
+49,Prefer not to say,Canada,1-5,True,1,No,I don't know,Very easy
+49,Male,UK,1000+,True,0,No,I don't know,I don't know
+41,Non-binary,UK,26-100,False,0,No,No,Very difficult
+58,Male,UK,100-500,True,0,I don't know,No,Very easy
+29,Non-binary,Germany,1-5,False,1,Yes,Yes,Very easy
+56,Male,Germany,26-100,True,1,I don't know,I don't know,I don't know
+19,Non-binary,Canada,26-100,True,1,I don't know,Yes,Very difficult
+20,Male,UK,1-5,True,0,Yes,No,Very easy
+54,Prefer not to say,UK,500-1000,False,0,No,I don't know,Very easy
+34,Female,India,26-100,True,0,No,I don't know,Very difficult
+19,Male,Germany,500-1000,False,0,Yes,No,Somewhat difficult
+19,Non-binary,UK,1-5,False,0,Yes,Yes,Very easy
+45,Prefer not to say,Canada,500-1000,False,1,Yes,Yes,Somewhat easy
+40,Male,Canada,6-25,False,1,Yes,I don't know,Very difficult
+54,Male,UK,100-500,True,1,I don't know,No,Very easy
+49,Prefer not to say,Germany,26-100,False,1,Yes,I don't know,I don't know
+50,Male,Canada,1000+,False,0,I don't know,No,Somewhat easy
+18,Female,India,100-500,True,0,No,Yes,Very easy
+36,Male,Canada,500-1000,False,0,I don't know,No,Somewhat easy
+19,Female,USA,26-100,True,1,No,Yes,Somewhat easy
+61,Female,USA,500-1000,False,0,Yes,No,Somewhat difficult
+43,Prefer not to say,Germany,6-25,True,0,No,I don't know,Somewhat easy
+49,Male,UK,1-5,False,0,Yes,Yes,Somewhat difficult
+23,Prefer not to say,Germany,26-100,True,0,No,I don't know,Very difficult
+49,Male,Germany,6-25,False,1,I don't know,I don't know,Somewhat difficult
+21,Male,Germany,6-25,False,1,Yes,Yes,I don't know
+28,Non-binary,Germany,26-100,True,0,Yes,Yes,Very easy
+34,Male,India,500-1000,True,1,I don't know,I don't know,Very difficult
+55,Prefer not to say,India,1000+,True,1,I don't know,I don't know,Very difficult
+41,Female,Canada,6-25,True,0,No,I don't know,I don't know
+22,Male,USA,100-500,False,0,Yes,I don't know,Somewhat difficult
+51,Non-binary,Germany,6-25,False,0,No,Yes,Very easy
+23,Prefer not to say,Canada,1000+,True,0,Yes,Yes,Somewhat difficult
+39,Male,USA,500-1000,False,1,I don't know,I don't know,Somewhat easy
+28,Prefer not to say,UK,500-1000,True,0,I don't know,No,Somewhat difficult
+33,Non-binary,India,100-500,True,1,I don't know,No,Very difficult
+50,Non-binary,USA,6-25,False,0,I don't know,Yes,Very easy
+26,Prefer not to say,UK,500-1000,False,0,Yes,I don't know,Somewhat difficult
+23,Male,USA,1000+,False,0,I don't know,I don't know,Very easy
+33,Female,India,26-100,False,0,I don't know,Yes,Very easy
+46,Non-binary,India,1-5,False,0,Yes,No,Somewhat easy
+20,Male,Canada,1-5,False,1,I don't know,No,Somewhat easy
+37,Male,Germany,1-5,False,0,Yes,No,Very difficult
+53,Female,USA,6-25,True,1,No,Yes,I don't know
+36,Non-binary,USA,100-500,True,0,I don't know,No,Very easy
+43,Non-binary,UK,500-1000,True,0,No,Yes,I don't know
+20,Male,India,26-100,True,0,Yes,Yes,Very difficult
+36,Male,USA,1000+,True,0,No,I don't know,Very easy
+37,Female,India,26-100,False,0,No,No,Very easy
+49,Female,USA,1000+,True,0,I don't know,Yes,I don't know
+24,Non-binary,Canada,6-25,True,0,No,No,Somewhat difficult
+58,Prefer not to say,Germany,1-5,True,0,Yes,No,Somewhat easy
+50,Non-binary,USA,6-25,True,0,I don't know,I don't know,Somewhat difficult
+57,Male,India,100-500,True,0,No,No,I don't know
+56,Non-binary,Canada,100-500,True,1,No,I don't know,Somewhat easy
+35,Prefer not to say,USA,1000+,True,1,No,Yes,Somewhat difficult
+57,Female,UK,500-1000,False,0,I don't know,No,Somewhat easy
+18,Prefer not to say,Germany,500-1000,False,0,No,Yes,Very easy
+28,Prefer not to say,USA,1000+,True,1,No,No,Somewhat difficult
+45,Prefer not to say,Canada,100-500,False,1,Yes,Yes,Somewhat easy
+42,Female,UK,100-500,False,0,Yes,No,Somewhat easy
+40,Prefer not to say,Canada,100-500,False,1,Yes,No,Somewhat easy
+48,Prefer not to say,Canada,6-25,False,0,Yes,No,Somewhat difficult
+47,Prefer not to say,UK,100-500,True,0,No,No,Very difficult
+59,Male,Canada,26-100,False,1,I don't know,No,Somewhat difficult
+52,Prefer not to say,UK,1-5,False,0,No,No,I don't know
+24,Female,USA,100-500,False,1,I don't know,No,Somewhat difficult
+33,Prefer not to say,UK,1000+,True,1,I don't know,No,Somewhat easy
+43,Prefer not to say,UK,1-5,True,0,I don't know,No,Very easy
+19,Female,Germany,6-25,True,0,No,Yes,Somewhat difficult
+18,Prefer not to say,UK,1000+,True,0,No,I don't know,Somewhat difficult
+29,Female,UK,1-5,True,0,No,No,Somewhat easy
+22,Prefer not to say,USA,1000+,True,1,Yes,I don't know,Very easy
+54,Female,Germany,6-25,True,0,Yes,No,Very easy
+49,Prefer not to say,India,26-100,False,0,I don't know,No,I don't know
+26,Prefer not to say,USA,6-25,False,1,I don't know,Yes,Somewhat difficult
+58,Male,USA,6-25,False,0,Yes,Yes,Very easy
+52,Male,India,1000+,True,1,No,I don't know,Very easy
+36,Prefer not to say,UK,500-1000,True,0,I don't know,Yes,Very difficult
+33,Prefer not to say,Canada,100-500,True,1,Yes,Yes,Very difficult
+20,Non-binary,Germany,100-500,True,0,Yes,I don't know,Very easy
+37,Female,Canada,26-100,True,0,I don't know,Yes,I don't know
+41,Non-binary,India,26-100,False,0,No,No,Very easy
+50,Male,USA,100-500,False,0,Yes,I don't know,Somewhat easy
+41,Male,USA,500-1000,True,1,No,I don't know,Somewhat difficult
+28,Male,Germany,100-500,True,1,I don't know,No,I don't know
+25,Male,USA,500-1000,True,1,No,Yes,Somewhat easy
+53,Prefer not to say,USA,26-100,True,0,Yes,I don't know,I don't know
+55,Male,Germany,1-5,False,0,Yes,I don't know,Somewhat easy
+57,Prefer not to say,Germany,1000+,True,0,No,No,Somewhat difficult
+37,Prefer not to say,India,26-100,True,0,No,No,Somewhat difficult
+52,Male,USA,26-100,True,1,I don't know,Yes,Very difficult
+42,Male,USA,6-25,True,0,Yes,I don't know,Somewhat easy
+52,Female,India,6-25,False,0,I don't know,Yes,Very difficult
+42,Non-binary,UK,6-25,True,0,Yes,Yes,Somewhat easy
+46,Male,UK,1000+,True,1,Yes,No,Very difficult
+35,Female,UK,6-25,False,1,Yes,I don't know,Somewhat difficult
+63,Female,India,500-1000,False,1,Yes,I don't know,I don't know
+35,Non-binary,USA,100-500,False,0,No,I don't know,Very difficult
+19,Prefer not to say,India,1-5,True,0,No,No,Somewhat easy
+52,Male,India,26-100,True,1,Yes,No,Somewhat easy
+33,Non-binary,UK,500-1000,False,1,No,No,Somewhat difficult
+58,Male,Canada,1-5,False,0,Yes,No,Somewhat easy
+53,Female,USA,500-1000,False,1,I don't know,No,Very easy
+50,Female,UK,500-1000,False,1,I don't know,I don't know,I don't know
+21,Prefer not to say,Canada,26-100,False,1,Yes,Yes,Very difficult
+50,Female,Canada,100-500,False,1,No,I don't know,I don't know
+31,Female,Germany,6-25,True,0,Yes,Yes,Somewhat difficult
+38,Non-binary,USA,1000+,True,0,Yes,No,Very difficult
+37,Male,Canada,100-500,True,0,Yes,Yes,Very difficult
+25,Male,UK,1000+,False,1,I don't know,I don't know,Very easy
+24,Non-binary,Germany,26-100,False,1,No,I don't know,Somewhat difficult
+20,Prefer not to say,USA,26-100,False,1,Yes,Yes,Somewhat easy
+34,Male,India,26-100,False,0,I don't know,No,Very easy
+50,Female,UK,1-5,False,1,No,No,Very easy
+29,Male,Canada,1000+,False,1,I don't know,I don't know,I don't know
+39,Female,Canada,100-500,True,1,No,Yes,I don't know
+39,Prefer not to say,UK,100-500,True,1,No,No,I don't know
+63,Non-binary,Canada,500-1000,False,1,Yes,No,Very easy
+47,Male,Germany,500-1000,True,0,Yes,I don't know,Somewhat easy
+55,Non-binary,USA,500-1000,False,0,I don't know,No,Very difficult
+55,Male,Germany,26-100,True,0,Yes,Yes,I don't know
+62,Female,Canada,100-500,False,0,I don't know,I don't know,Somewhat easy
+25,Non-binary,India,1000+,False,1,No,I don't know,Somewhat difficult
+44,Male,USA,26-100,True,1,Yes,Yes,I don't know
+44,Female,USA,1-5,True,0,Yes,I don't know,Very difficult
+51,Non-binary,UK,500-1000,False,0,Yes,No,Somewhat difficult
+38,Non-binary,UK,26-100,False,1,I don't know,No,Somewhat difficult
+47,Male,India,26-100,True,0,No,Yes,Very difficult
+50,Male,USA,1-5,True,0,Yes,No,I don't know
+45,Male,India,6-25,False,0,Yes,Yes,Very easy
+64,Female,UK,100-500,True,0,Yes,Yes,Very difficult
+50,Male,UK,1000+,False,0,No,No,Very difficult
+22,Non-binary,USA,6-25,False,0,Yes,Yes,Very difficult
+36,Non-binary,Germany,500-1000,False,0,I don't know,No,Somewhat difficult
+21,Male,Canada,26-100,False,1,Yes,I don't know,Somewhat easy
+52,Male,UK,1-5,True,0,Yes,I don't know,Very easy
+34,Prefer not to say,UK,1-5,True,1,No,Yes,I don't know
+61,Non-binary,Germany,100-500,True,0,No,No,I don't know
+45,Female,Germany,6-25,True,0,I don't know,No,Somewhat easy
+47,Prefer not to say,India,100-500,True,1,No,I don't know,Very difficult
+46,Male,India,26-100,True,0,Yes,I don't know,Very easy
+63,Male,Canada,100-500,True,0,No,No,I don't know
+23,Non-binary,Canada,1000+,False,0,Yes,Yes,I don't know
+52,Male,USA,1-5,True,1,Yes,I don't know,Very difficult
+58,Female,India,1-5,True,0,I don't know,Yes,Somewhat easy
+54,Non-binary,UK,500-1000,False,0,I don't know,Yes,Very easy
+41,Male,India,500-1000,True,1,I don't know,I don't know,Somewhat easy
+46,Non-binary,UK,26-100,True,0,No,Yes,Somewhat easy
+63,Male,Germany,1000+,False,1,No,Yes,Very easy
+48,Male,India,6-25,True,1,Yes,No,Very easy
+52,Male,Germany,100-500,True,1,Yes,Yes,I don't know
+50,Female,Canada,26-100,True,0,I don't know,No,I don't know
+38,Female,Canada,500-1000,False,1,Yes,I don't know,Very easy
+49,Non-binary,USA,100-500,True,0,I don't know,I don't know,Somewhat difficult
+40,Male,India,500-1000,True,0,I don't know,No,I don't know
+50,Male,Germany,100-500,False,0,Yes,I don't know,Somewhat difficult
+20,Female,UK,6-25,True,1,No,Yes,Very easy
+35,Male,Canada,26-100,False,0,No,Yes,I don't know
+42,Female,Canada,100-500,False,0,Yes,Yes,Somewhat easy
+59,Male,UK,1000+,True,0,I don't know,I don't know,Very easy
+48,Non-binary,Germany,1-5,False,1,No,Yes,Very difficult
+20,Male,Germany,1000+,False,1,Yes,I don't know,Somewhat difficult
+57,Male,India,1000+,True,1,No,Yes,Very easy
+63,Prefer not to say,India,1-5,False,0,I don't know,No,Very easy
+41,Female,USA,1000+,False,0,Yes,I don't know,I don't know
+49,Male,Canada,100-500,True,1,I don't know,I don't know,I don't know
+64,Male,India,100-500,True,0,Yes,Yes,I don't know
+39,Prefer not to say,Germany,100-500,True,0,I don't know,I don't know,Very difficult
+40,Prefer not to say,UK,1-5,False,1,I don't know,I don't know,I don't know
+19,Female,Germany,1000+,True,1,Yes,No,Very easy
+44,Prefer not to say,Canada,1-5,False,1,Yes,No,I don't know
+59,Non-binary,Germany,100-500,False,1,I don't know,Yes,Somewhat easy
+19,Prefer not to say,USA,1000+,False,1,No,No,I don't know
+43,Non-binary,Canada,1000+,False,0,I don't know,Yes,Very difficult
+34,Female,UK,500-1000,False,0,Yes,Yes,Somewhat easy
+57,Female,USA,500-1000,False,1,I don't know,Yes,Very easy
+50,Female,Canada,6-25,False,0,I don't know,I don't know,Very easy
+26,Female,UK,26-100,True,1,I don't know,No,Somewhat difficult
+60,Female,USA,500-1000,True,0,Yes,Yes,Somewhat easy
+56,Non-binary,USA,1-5,False,0,No,No,Somewhat difficult
+46,Non-binary,Canada,500-1000,False,1,No,Yes,Somewhat easy
+59,Female,India,6-25,True,1,Yes,No,Somewhat easy
+43,Prefer not to say,USA,1000+,False,1,No,No,Very difficult
+52,Male,USA,6-25,True,0,Yes,Yes,Somewhat difficult
+42,Female,UK,1000+,True,1,I don't know,I don't know,Very difficult
+41,Prefer not to say,Germany,1000+,True,0,No,No,Somewhat easy
+30,Male,Canada,26-100,False,0,Yes,I don't know,Very easy
+24,Female,Canada,500-1000,False,0,No,I don't know,Somewhat easy
+53,Female,India,1-5,True,0,No,Yes,Very difficult
+62,Non-binary,India,1-5,True,0,Yes,Yes,Somewhat difficult
+37,Male,Canada,100-500,True,1,I don't know,Yes,Somewhat difficult
+18,Male,India,1000+,True,1,I don't know,No,Very difficult
+25,Prefer not to say,UK,1-5,True,1,No,Yes,Somewhat difficult
+63,Non-binary,Canada,26-100,False,0,Yes,Yes,I don't know
+33,Non-binary,India,1000+,True,1,I don't know,No,Very easy
+31,Non-binary,Canada,26-100,False,1,No,No,Very easy
+29,Non-binary,Germany,1-5,True,1,Yes,Yes,Very easy
+40,Male,USA,1-5,False,0,No,Yes,Somewhat difficult
+32,Male,Canada,100-500,False,0,No,Yes,Somewhat difficult
+45,Female,USA,1-5,False,0,No,Yes,Somewhat easy
+51,Female,India,1000+,False,0,No,I don't know,Somewhat easy
+19,Non-binary,USA,1000+,False,0,No,I don't know,Very easy
+49,Non-binary,Canada,1000+,False,1,I don't know,Yes,I don't know
+40,Non-binary,Germany,100-500,True,0,Yes,I don't know,Somewhat easy
+39,Female,India,100-500,False,0,I don't know,No,Somewhat easy
+42,Prefer not to say,Canada,1-5,True,0,I don't know,I don't know,Somewhat difficult
+39,Prefer not to say,India,6-25,False,0,No,I don't know,I don't know
+39,Female,UK,6-25,False,0,No,Yes,Very easy
+59,Female,USA,100-500,True,0,No,I don't know,Somewhat easy
+23,Female,UK,1-5,False,0,No,I don't know,I don't know
+32,Female,Canada,6-25,True,1,I don't know,I don't know,I don't know
+60,Female,Germany,1-5,True,1,No,I don't know,Very easy
+54,Female,India,1-5,True,0,I don't know,No,I don't know
+50,Non-binary,USA,1-5,True,0,Yes,Yes,I don't know
+25,Non-binary,India,500-1000,False,1,Yes,Yes,I don't know
+61,Non-binary,Canada,1000+,False,0,No,No,Somewhat easy
+61,Non-binary,India,1-5,True,0,Yes,I don't know,Very easy
+22,Female,USA,500-1000,False,1,Yes,No,I don't know
+56,Prefer not to say,Canada,100-500,False,0,Yes,I don't know,I don't know
+21,Male,India,6-25,True,1,Yes,No,Somewhat easy
+23,Female,Germany,1000+,False,0,Yes,Yes,Very easy
+62,Male,Canada,6-25,True,0,I don't know,Yes,Somewhat difficult
+49,Prefer not to say,Canada,1000+,True,0,Yes,Yes,Somewhat easy
+47,Non-binary,Germany,6-25,False,1,I don't know,I don't know,Very easy
+64,Prefer not to say,UK,1000+,False,0,I don't know,I don't know,I don't know
+52,Female,USA,6-25,False,0,I don't know,No,Very easy
+57,Non-binary,UK,6-25,True,1,Yes,No,Very easy
+33,Female,India,6-25,True,0,I don't know,Yes,Very easy
+30,Non-binary,Germany,6-25,False,0,No,I don't know,Somewhat difficult
+59,Male,UK,100-500,False,1,No,No,Very easy
+47,Male,Canada,1-5,False,0,No,I don't know,Somewhat difficult
+36,Male,India,26-100,False,1,I don't know,I don't know,I don't know
+34,Prefer not to say,India,500-1000,True,1,Yes,Yes,Somewhat difficult
+36,Female,UK,26-100,False,1,I don't know,Yes,I don't know
+45,Prefer not to say,UK,26-100,True,0,No,I don't know,I don't know
+43,Male,Germany,1000+,True,1,I don't know,I don't know,Somewhat difficult
+54,Female,USA,1-5,False,0,I don't know,I don't know,Somewhat easy
+43,Male,UK,1000+,False,1,Yes,I don't know,Very difficult
+40,Prefer not to say,UK,1-5,False,0,I don't know,Yes,Very easy
+26,Prefer not to say,Canada,1-5,True,0,Yes,No,Very difficult
+29,Prefer not to say,India,6-25,False,0,Yes,Yes,Very easy
+18,Male,USA,100-500,False,1,Yes,No,Very easy
+18,Female,Canada,6-25,True,1,Yes,I don't know,I don't know
+64,Female,Germany,100-500,False,0,No,No,Very easy
+51,Male,Germany,1000+,True,0,Yes,Yes,Very easy
+49,Female,UK,100-500,False,1,Yes,Yes,Somewhat difficult
+42,Male,UK,1000+,True,0,I don't know,I don't know,Very difficult
+57,Female,Germany,26-100,False,0,I don't know,Yes,Somewhat difficult
+62,Non-binary,UK,26-100,False,1,I don't know,I don't know,Very easy
+18,Non-binary,USA,100-500,True,0,I don't know,Yes,I don't know
+33,Prefer not to say,UK,100-500,True,1,I don't know,Yes,Somewhat difficult
+56,Non-binary,India,1000+,False,0,Yes,I don't know,Somewhat difficult
+22,Non-binary,UK,6-25,True,0,Yes,No,Somewhat easy
+39,Non-binary,Canada,1000+,True,0,I don't know,Yes,Very easy
+46,Male,USA,6-25,True,1,Yes,No,I don't know
+20,Non-binary,Canada,26-100,True,0,No,Yes,Somewhat difficult
+29,Non-binary,Canada,1-5,False,1,Yes,Yes,Somewhat difficult
+43,Prefer not to say,India,100-500,False,0,Yes,Yes,I don't know
+33,Non-binary,USA,6-25,True,1,No,Yes,Very easy
+54,Non-binary,USA,1000+,True,0,No,No,Somewhat easy
+39,Female,USA,26-100,True,0,No,No,Somewhat difficult
+46,Prefer not to say,USA,6-25,True,1,No,Yes,Somewhat easy
+31,Prefer not to say,USA,1000+,False,0,Yes,Yes,Very difficult
+45,Prefer not to say,India,100-500,False,0,Yes,No,Very easy
+22,Prefer not to say,UK,100-500,True,1,I don't know,I don't know,Very difficult
+64,Prefer not to say,Canada,500-1000,True,0,No,I don't know,Very difficult
+47,Prefer not to say,USA,1-5,True,1,Yes,No,Very difficult
+63,Male,UK,500-1000,False,0,I don't know,Yes,Very easy
+22,Non-binary,UK,26-100,True,1,Yes,Yes,Very easy
+29,Prefer not to say,Canada,6-25,False,0,No,I don't know,I don't know
+33,Non-binary,India,26-100,True,0,Yes,I don't know,Somewhat easy
+43,Non-binary,Germany,1000+,False,1,I don't know,No,Somewhat easy
+43,Male,Germany,100-500,True,1,No,I don't know,I don't know
+38,Prefer not to say,UK,500-1000,False,0,Yes,No,I don't know
+56,Female,Canada,500-1000,True,0,I don't know,I don't know,Very difficult
+53,Male,Germany,500-1000,True,1,No,I don't know,I don't know
+50,Female,UK,26-100,True,0,Yes,I don't know,Somewhat difficult
+47,Non-binary,India,100-500,False,1,Yes,Yes,Somewhat easy
+54,Non-binary,Germany,6-25,True,1,Yes,Yes,I don't know
+40,Male,UK,1000+,False,0,Yes,Yes,Somewhat difficult
+27,Male,UK,6-25,False,0,No,I don't know,Somewhat difficult
+22,Female,USA,26-100,True,1,I don't know,No,Somewhat difficult
+53,Prefer not to say,India,1000+,True,0,No,No,Somewhat difficult
+51,Female,USA,500-1000,True,0,Yes,No,Very difficult
+48,Male,Canada,1-5,False,1,Yes,No,Somewhat difficult
+27,Female,USA,26-100,True,0,Yes,Yes,Very difficult
+36,Male,USA,26-100,False,1,No,Yes,Very difficult
+49,Female,Germany,100-500,False,0,I don't know,I don't know,Somewhat difficult
+18,Male,UK,6-25,True,0,Yes,I don't know,Somewhat easy
+22,Male,India,26-100,True,0,I don't know,No,Somewhat difficult
+62,Male,USA,26-100,True,0,I don't know,Yes,Somewhat difficult
+21,Prefer not to say,India,500-1000,True,0,No,No,Somewhat difficult
+33,Female,USA,500-1000,True,0,I don't know,I don't know,Somewhat easy
+41,Female,Canada,1000+,True,1,No,I don't know,Very easy
+33,Female,USA,1-5,False,0,No,No,Very easy
+19,Male,Germany,100-500,False,0,No,I don't know,Very difficult
+45,Female,UK,1-5,False,0,No,No,Very difficult
+49,Female,Canada,1000+,True,0,Yes,Yes,Somewhat easy
+44,Male,USA,500-1000,False,0,Yes,No,I don't know
+37,Non-binary,India,6-25,False,0,Yes,Yes,Very easy
+41,Male,Canada,500-1000,False,0,No,Yes,Very difficult
+29,Female,Canada,100-500,False,0,Yes,I don't know,Very easy
+52,Male,USA,500-1000,False,0,I don't know,I don't know,Somewhat easy
+50,Non-binary,Canada,100-500,True,1,I don't know,I don't know,Somewhat easy
