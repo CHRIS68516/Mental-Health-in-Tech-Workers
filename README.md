@@ -12,7 +12,7 @@ Using Python, we performed exploratory data analysis (EDA) to clean, visualize, 
 
 ## Mental Health Treatment Prediction Using Random Forest in Python
 
-<img width="1281" height="716" alt="image" src="https://github.com/user-attachments/assets/fd9a9514-f171-48c4-86fc-4e3baa73573e" />
+<img width="1281" height="716" alt="image" src="https://github.com/user-attachments/assets/fd9a9514-f171-48c4-86fc-4e3baa73573e">
 <img width="1234" height="415" alt="image" src="https://github.com/user-attachments/assets/ba4c58a6-7ae5-4cf8-b650-5dd2c3a63a52" />
 
 ## Initial Data Exploration and Missing Value Analysis
@@ -122,12 +122,14 @@ Using Python, we performed exploratory data analysis (EDA) to clean, visualize, 
 
 <img width="1079" height="606" alt="image" src="https://github.com/user-attachments/assets/d8ca4575-ac33-4283-9e5e-c565e02c92c8" />
 
+## Coverage Awareness vs Age
+
 <img width="1048" height="586" alt="image" src="https://github.com/user-attachments/assets/0c4c5753-b6cd-44b8-9506-607a630844df" />
 
 ## Work Time Affected by Mental Health – by Country
 
 <img width="1053" height="585" alt="image" src="https://github.com/user-attachments/assets/04939212-dcc3-47fa-b609-2b3cf262fcb8" />
-
+## Sum of treatment_encoded by age
 <img width="989" height="594" alt="image" src="https://github.com/user-attachments/assets/ee093f70-d7be-44ed-a76d-9ec2883f0d80" />
 
 
