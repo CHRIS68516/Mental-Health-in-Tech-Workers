@@ -92,5 +92,5 @@ Using Python, we performed exploratory data analysis (EDA) to clean, visualize, 
 <img width="848" height="507" alt="image" src="https://github.com/user-attachments/assets/2ebfe34b-ad06-4d3c-ae93-482e475b2b16" />
 
 <p align="center">
- <h1> Mental health design and analysis in power Bi </h1>
+ <h1 align="center"> Mental health design and analysis in power Bi </h1>
 </p>
