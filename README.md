@@ -130,6 +130,9 @@ Using Python, we performed exploratory data analysis (EDA) to clean, visualize, 
 
 <img width="1053" height="585" alt="image" src="https://github.com/user-attachments/assets/04939212-dcc3-47fa-b609-2b3cf262fcb8" />
 
+You can access the  project analysis by clicking [here](https://drive.google.com/file/d/1j1XiiZKsqRp6N9-EzxgA3HNu0o9L2pM8/view?usp=sharing).
+
+
 ## Sum of treatment_encoded by age
 
 <img width="989" height="594" alt="image" src="https://github.com/user-attachments/assets/ee093f70-d7be-44ed-a76d-9ec2883f0d80" />
