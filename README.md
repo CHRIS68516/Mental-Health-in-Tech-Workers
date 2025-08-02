@@ -9,3 +9,8 @@ Using Python, we performed exploratory data analysis (EDA) to clean, visualize, 
 
 <img width="1508" height="809" alt="OVERVIEW" src="https://github.com/user-attachments/assets/bfe77578-a227-4962-b3cb-0539ef2f6341" />
 <img width="1311" height="341" alt="overview1" src="https://github.com/user-attachments/assets/aa9bae5f-8754-4a1c-86a4-06e3da7aef40" />
+
+##Mental Health Treatment Prediction Using Random Forest in Python
+
+<img width="1281" height="716" alt="image" src="https://github.com/user-attachments/assets/fd9a9514-f171-48c4-86fc-4e3baa73573e" />
+<img width="1234" height="415" alt="image" src="https://github.com/user-attachments/assets/ba4c58a6-7ae5-4cf8-b650-5dd2c3a63a52" />
