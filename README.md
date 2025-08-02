@@ -63,6 +63,9 @@ Using Python, we performed exploratory data analysis (EDA) to clean, visualize, 
 
 <img width="1265" height="663" alt="image" src="https://github.com/user-attachments/assets/fcc30f8f-79a5-4aca-9557-f263435d7abc" />
 
+## Work Interference When Mental Health Is Untreated
+
+<img width="1308" height="596" alt="image" src="https://github.com/user-attachments/assets/4fd5b662-8da7-4828-bbd9-8c701cba2c3a" />
 
 
 
