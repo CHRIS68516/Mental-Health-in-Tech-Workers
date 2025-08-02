@@ -26,3 +26,43 @@ Using Python, we performed exploratory data analysis (EDA) to clean, visualize, 
 ## Mental Health Treatment Seeking by Gender
 
 <img width="1288" height="712" alt="image" src="https://github.com/user-attachments/assets/549bb271-73c9-42c5-aa8f-ad331522aba2" />
+
+## Confusion Matrix – Mental Health Treatment Prediction
+
+<img width="1368" height="731" alt="image" src="https://github.com/user-attachments/assets/e78ba1fc-3186-4c19-b929-6da2884a2631" />
+
+## Feature Importance
+
+<img width="1338" height="583" alt="image" src="https://github.com/user-attachments/assets/bed83ae8-9054-4001-b449-a730bfab9e7d" />
+
+## Mental Health Data Cleaning & Preparation Pipeline
+
+<img width="1232" height="684" alt="image" src="https://github.com/user-attachments/assets/4357ed59-72b1-4b09-a278-c6b8d6d64eff" />
+<img width="1340" height="303" alt="image" src="https://github.com/user-attachments/assets/441853c6-748c-44e6-9853-5c80ed0afcee" />
+
+## Exploratory Data Analysis – Mental Health Treatment Patterns
+
+<img width="1408" height="749" alt="image" src="https://github.com/user-attachments/assets/1c7978aa-1483-48e7-9376-3693610d9c47" />
+
+ ## Distribution of Mental Health Treatment
+
+ <img width="609" height="356" alt="image" src="https://github.com/user-attachments/assets/1ac5d383-7d36-45ee-b24f-791f1b3ff79c" />
+
+## Age Distribution of Respondents
+
+<img width="587" height="345" alt="image" src="https://github.com/user-attachments/assets/29867ccf-41c3-48ca-99fe-36066f0196d2" />
+
+## Gender vs Treatment Seeking
+
+<img width="623" height="403" alt="image" src="https://github.com/user-attachments/assets/edcddab3-305c-4e19-8c86-93ce87266382" />
+
+## Employer Support vs Mental Health Treatment
+<img width="827" height="411" alt="image" src="https://github.com/user-attachments/assets/382e12f2-f603-4e97-b39b-ce4804fc4a19" />
+
+## Correlation Heatmap of Numeric Features
+
+<img width="1265" height="663" alt="image" src="https://github.com/user-attachments/assets/fcc30f8f-79a5-4aca-9557-f263435d7abc" />
+
+
+
+
