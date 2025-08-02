@@ -129,7 +129,9 @@ Using Python, we performed exploratory data analysis (EDA) to clean, visualize, 
 ## Work Time Affected by Mental Health – by Country
 
 <img width="1053" height="585" alt="image" src="https://github.com/user-attachments/assets/04939212-dcc3-47fa-b609-2b3cf262fcb8" />
+
 ## Sum of treatment_encoded by age
+
 <img width="989" height="594" alt="image" src="https://github.com/user-attachments/assets/ee093f70-d7be-44ed-a76d-9ec2883f0d80" />
 
 
