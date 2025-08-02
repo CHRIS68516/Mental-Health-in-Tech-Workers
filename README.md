@@ -3,3 +3,9 @@
  This capstone project investigates mental health challenges among tech workers by analyzing data from the 2019 OSMI (Open Sourcing Mental Illness) survey. The goal is to understand how demographic factors such as age, gender, and location, as well as workplace conditions like company size and mental health policies, affect the likelihood of individuals seeking mental health treatment. Through this analysis, we aim to uncover patterns and disparities that can inform better support systems within the tech industry.
 
 Using Python, we performed exploratory data analysis (EDA) to clean, visualize, and interpret the data. We then developed predictive models to identify key factors associated with treatment-seeking behavior. These insights can support employers and policy-makers in creating more inclusive and mentally healthy work environments. The project highlights the importance of data-driven approaches to address mental health stigma and accessibility in the tech workforce.
+
+
+## Project overview
+
+<img width="1508" height="809" alt="OVERVIEW" src="https://github.com/user-attachments/assets/bfe77578-a227-4962-b3cb-0539ef2f6341" />
+<img width="1311" height="341" alt="overview1" src="https://github.com/user-attachments/assets/aa9bae5f-8754-4a1c-86a4-06e3da7aef40" />
