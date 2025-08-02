@@ -97,3 +97,37 @@ Using Python, we performed exploratory data analysis (EDA) to clean, visualize, 
 
 <img width="1598" height="783" alt="image" src="https://github.com/user-attachments/assets/8d7d0426-3a6d-4602-9f74-f1c429b72198" />
 
+
+##  Gender Distribution
+
+<img width="1213" height="671" alt="image" src="https://github.com/user-attachments/assets/5fd46682-d340-40fb-8eeb-54d16e068899" />
+
+## Company Size vs Awareness of Mental Health Coverage
+
+<img width="1111" height="595" alt="image" src="https://github.com/user-attachments/assets/2ee101e3-a31c-46c3-9fb8-6f067a966d63" />
+
+## treatment_encoded
+
+<img width="1052" height="617" alt="image" src="https://github.com/user-attachments/assets/8fe9cbfa-6919-4c58-a851-21c2f47a8d6b" />
+
+## Treatment Count by Leave Difficulty and Employer Communication
+
+<img width="1044" height="587" alt="image" src="https://github.com/user-attachments/assets/f5bcf246-95b1-4ceb-ac0f-84dd4b810c6d" />
+
+## Coverage Knowledge & Treatment Totals by Country
+
+<img width="1073" height="594" alt="image" src="https://github.com/user-attachments/assets/d2f115e9-5819-44b0-ad54-5a1b5a31aaf1" />
+
+## Past Employment vs Perceived Stigma and Gender
+
+<img width="1079" height="606" alt="image" src="https://github.com/user-attachments/assets/d8ca4575-ac33-4283-9e5e-c565e02c92c8" />
+
+<img width="1048" height="586" alt="image" src="https://github.com/user-attachments/assets/0c4c5753-b6cd-44b8-9506-607a630844df" />
+
+## Work Time Affected by Mental Health – by Country
+
+<img width="1053" height="585" alt="image" src="https://github.com/user-attachments/assets/04939212-dcc3-47fa-b609-2b3cf262fcb8" />
+
+<img width="989" height="594" alt="image" src="https://github.com/user-attachments/assets/ee093f70-d7be-44ed-a76d-9ec2883f0d80" />
+
+
