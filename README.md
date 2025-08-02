@@ -67,5 +67,26 @@ Using Python, we performed exploratory data analysis (EDA) to clean, visualize, 
 
 <img width="1308" height="596" alt="image" src="https://github.com/user-attachments/assets/4fd5b662-8da7-4828-bbd9-8c701cba2c3a" />
 
+## Mental Health Diagnosis and Employer Support: Analysis and Visualization
 
+<img width="824" height="673" alt="image" src="https://github.com/user-attachments/assets/388e143d-191d-44d4-897f-52f9092fce88" />
+<img width="836" height="409" alt="image" src="https://github.com/user-attachments/assets/9f360509-f97f-4cd4-81df-e1dce51f3feb" />
+<img width="342" height="357" alt="image" src="https://github.com/user-attachments/assets/4035fda7-72a0-4c2a-af3c-d7e2644aebd5" />
 
+## Predicting Mental Health Treatment with Logistic Regression
+
+<img width="1030" height="693" alt="image" src="https://github.com/user-attachments/assets/79e9c806-5af3-4ae2-bb1f-9a18a933a116" />
+
+<img width="1028" height="496" alt="image" src="https://github.com/user-attachments/assets/787ee286-86d6-4605-84e5-c8aec143e0ef" />
+
+## Model Evaluation Metrics and ROC Analysis for Mental Health Treatment Prediction
+
+<img width="1249" height="690" alt="image" src="https://github.com/user-attachments/assets/9a60d55c-0e00-4b05-9ee0-aa36d33724d1" />
+
+<img width="684" height="608" alt="image" src="https://github.com/user-attachments/assets/1940e107-f39b-47dc-9436-df44b8c80e9c" />
+
+<img width="527" height="417" alt="image" src="https://github.com/user-attachments/assets/2fa6fd99-8f6c-439e-af77-a2058cc884e4" />
+
+## Employer Mental Health Benefits in Top 5 states
+
+<img width="848" height="507" alt="image" src="https://github.com/user-attachments/assets/2ebfe34b-ad06-4d3c-ae93-482e475b2b16" />
