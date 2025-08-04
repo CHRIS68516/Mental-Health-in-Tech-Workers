@@ -95,7 +95,7 @@ Using Python, we performed exploratory data analysis (EDA) to clean, visualize, 
  <h1 align="center"> Mental health design and analysis in power Bi </h1>
 </p>
 
-<img width="1598" height="783" alt="image" src="https://github.com/user-attachments/assets/8d7d0426-3a6d-4602-9f74-f1c429b72198" />
+<img width="1598" height="783" alt="image" src="https://github.com/user-attachments/assets/8d7d0426-3a6d-4602-9f74-f1c429b72198" />  
 
 
 ##  Gender Distribution
