@@ -48,7 +48,7 @@ Using Python, we performed exploratory data analysis (EDA) to clean, visualize, 
 
  <img width="609" height="356" alt="image" src="https://github.com/user-attachments/assets/1ac5d383-7d36-45ee-b24f-791f1b3ff79c" />
 
-## Age Distribution of Respondents
+## Age Distribution of Respondents    
 
 <img width="587" height="345" alt="image" src="https://github.com/user-attachments/assets/29867ccf-41c3-48ca-99fe-36066f0196d2" />
 
