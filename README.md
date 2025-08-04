@@ -137,10 +137,10 @@ You can access the  project analysis by clicking [here](https://drive.google.com
 
 <img width="989" height="594" alt="image" src="https://github.com/user-attachments/assets/ee093f70-d7be-44ed-a76d-9ec2883f0d80" />
 
-You can access the  project analysis by clicking [here]().  and 
+You can access the  project analysis by clicking [here](https://drive.google.com/file/d/1QVSvcYOlNhuV6UGtFsorTJGQqDjzunv1/view?usp=sharing).  and 
 
 
-You can access the final project dashboard by clicking [here]().
+You can access the final project dashboard by clicking [here](https://drive.google.com/file/d/1Ajuuhf77_TybTpQ-THGjCeDLQ1EXGrsv/view?usp=sharing).
 
 
 
