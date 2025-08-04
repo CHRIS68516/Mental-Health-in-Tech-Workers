@@ -5,7 +5,7 @@
 Using Python, we performed exploratory data analysis (EDA) to clean, visualize, and interpret the data. We then developed predictive models to identify key factors associated with treatment-seeking behavior. These insights can support employers and policy-makers in creating more inclusive and mentally healthy work environments. The project highlights the importance of data-driven approaches to address mental health stigma and accessibility in the tech workforce.
 
 
-## Project overview
+## Project overview   
 
 <img width="1508" height="809" alt="OVERVIEW" src="https://github.com/user-attachments/assets/bfe77578-a227-4962-b3cb-0539ef2f6341" />
 <img width="1311" height="341" alt="overview1" src="https://github.com/user-attachments/assets/aa9bae5f-8754-4a1c-86a4-06e3da7aef40" />
