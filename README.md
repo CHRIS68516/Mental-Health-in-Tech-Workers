@@ -57,7 +57,7 @@ Using Python, we performed exploratory data analysis (EDA) to clean, visualize, 
 <img width="623" height="403" alt="image" src="https://github.com/user-attachments/assets/edcddab3-305c-4e19-8c86-93ce87266382" />
 
 ## Employer Support vs Mental Health Treatment
-<img width="827" height="411" alt="image" src="https://github.com/user-attachments/assets/382e12f2-f603-4e97-b39b-ce4804fc4a19" />
+<img width="827" height="411" alt="image" src="https://github.com/user-attachments/assets/382e12f2-f603-4e97-b39b-ce4804fc4a19" />   
 
 ## Correlation Heatmap of Numeric Features
 
